@@ -1,0 +1,15 @@
+{
+  "$schema": "../gen/schemas/android-schema.json",
+  "identifier": "android-capability",
+  "description": "Capability for the Android app",
+  "windows": [
+    "main"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "permissions": [
+  ],
+  "capabilities": [
+  ]
+}
